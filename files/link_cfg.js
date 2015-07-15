@@ -1,0 +1,1 @@
+window.link_options = {color: "#0000FF", fadeIn: true, visible: true};
